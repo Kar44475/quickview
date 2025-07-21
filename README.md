@@ -1,6 +1,6 @@
 # QuickView - NY Times Articles
 
-A Flutter application that displays the most emailed articles from the New York Times API.
+A Flutter application that displays the most popular articles from the New York Times API.
 
 ##  Running the Code
 
